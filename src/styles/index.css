@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import "tailwindcss";
+
+@theme {
+  /* COLORS */
+
+  --color-*: initial;
+
+  --color-grey-500: hsl(234, 12%, 34%);
+  --color-grey-400: hsl(212, 6%, 44%);
+  --color-white: hsl(0, 0%, 100%);
+
+  --color-red: #ea5353ff;
+  --color-cyan: #45d3d3ff;
+  --color-orange: #fcaf4aff;
+  --color-blue: #549ef2ff;
+
+  /* TYPOGRAPHY */
+
+  --text-*: initial;
+
+  --text-sm: clamp(0.875rem, 0.85rem + 0.125vw, 1rem);
+  --text-md: clamp(1rem, 0.975rem + 0.125vw, 1.125rem);
+  --text-lg: clamp(1.3rem, 1.28rem + 0.09999999999999987vw, 1.4rem);
+  --text-xl: clamp(1.5rem, 1.32rem + 0.8999999999999999vw, 2.4rem);
+}
+
+#root {
+  color: var(--color-grey-500);
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 4rem;
+  min-block-size: 100dvh;
+  padding-block: 3rem;
+}

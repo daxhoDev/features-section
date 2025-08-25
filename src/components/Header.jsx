@@ -1,9 +1,9 @@
 export default function Header() {
   return (
-    <header>
-      <h1>Reliable, efficient delivery</h1>
-      <h2>Powered by Technology</h2>
-      <p>
+    <header className="text-center px-6 md:max-w-150">
+      <h1 className="text-xl font-extralight">Reliable, efficient delivery</h1>
+      <h2 className="text-xl font-semibold mb-4">Powered by Technology</h2>
+      <p className="text-sm">
         Our Artificial Intelligence powered tools use millions of project data
         points to ensure that your project is successful
       </p>
