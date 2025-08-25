@@ -7,10 +7,10 @@ export default function FeatureCard({
 }) {
   return (
     <article
-      className={`rounded-md shadow-lg bg-red overflow-hidden w-[min(100%,25rem)] ${
+      className={`rounded-md shadow-lg bg-red overflow-hidden w-[min(100%,23rem)] ${
         isInCenter
-          ? "md:col-start-2 md:col-end-3"
-          : "md:row-start-1 md:row-end-3"
+          ? "lg:col-start-2 lg:col-end-3"
+          : "lg:row-start-1 lg:row-end-3"
       }`}
     >
       <div className={`h-1 bg-${color}`}></div>

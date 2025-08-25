@@ -1,12 +1,67 @@
-# React + Vite
+# Frontend Mentor - Four card feature section solution
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-Currently, two official plugins are available:
+## Table of contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-## Expanding the ESLint configuration
+## Overview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout for the site depending on their device's screen size
+
+### Screenshot
+
+![Screenshot](./screenshot.png)
+
+### Links
+
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
+- [Tailwind CSS](https://tailwindcss.com/) - For styles
+
+### What I learned
+
+With this challenge I used Tailwind for the first time myself, I build this just following the docs so I learned a lot of stuff.
+
+### Continued development
+
+From now on, I'll try to use Taiölwind CSS as my default way of styling my web projects. I'll dive deeper into it and it's best practices.
+
+### Useful resources
+
+- [Fluid Typography Calculator](https://royalfig.github.io/fluid-typography-calculator/) - Useful resource that helped me implement a correct fluid typography with the `clamp()` function
+- [Tailwind CSS Docs](https://tailwindcss.com/docs) - Tailwind CSS official documentation. The best resource to learn how to work with it.
+
+## Author
+
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/daxhoDev)
+- Twitter - [@yourusername](https://www.twitter.com/daxhoDev)
+
+## Acknowledgments
+
+My friend [Saúl](https://github.com/saulin18) helped me with some questions about tailwind. Thanks a lot bro!
