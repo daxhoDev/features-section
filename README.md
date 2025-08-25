@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-features-section-with-flexbox-grid-react-and-tailwind-css-BV1XKRx51K](https://www.frontendmentor.io/solutions/responsive-features-section-with-flexbox-grid-react-and-tailwind-css-BV1XKRx51K)
 - Live Site URL: [https://features-section-gray.vercel.app/](https://features-section-gray.vercel.app/)
 
 ## My process
