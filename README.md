@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://features-section-gray.vercel.app/](https://features-section-gray.vercel.app/)
 
 ## My process
 
@@ -64,4 +64,4 @@ From now on, I'll try to use Taiölwind CSS as my default way of styling my web 
 
 ## Acknowledgments
 
-My friend [Saúl](https://github.com/saulin18) helped me with some questions about tailwind. Thanks a lot bro!
+My friend Saúl ([@saulin18](https://github.com/)) helped me with some questions about tailwind. Thanks a lot bro!
